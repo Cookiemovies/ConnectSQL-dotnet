@@ -65,7 +65,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Retrieve Data SQL</p>
+                <p>&nbsp;</p>
             </footer>
         </div>
 
